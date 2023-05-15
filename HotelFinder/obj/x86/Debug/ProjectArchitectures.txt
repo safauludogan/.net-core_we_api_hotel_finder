@@ -1,0 +1,1 @@
+C:\Users\safa.uludogan\Desktop\c#\c# tutorial\HotelFinder\HotelFinder\HotelFinder.csproj;x86
